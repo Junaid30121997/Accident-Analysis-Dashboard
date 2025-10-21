@@ -23,7 +23,7 @@ The dashboard aims to analyze and understand accident patterns, helping stakehol
 ![Interactive Chart Example](https://github.com/Junaid30121997/Accident-Analysis-Dashboard/blob/main/Screenshot%202025-10-21%20121441.png)
 
 ## How to Use
-1. Open `Dashboard.xlsx` in Microsoft Excel.
+1. Open `[Dashboard.xlsx](https://github.com/Junaid30121997/Accident-Analysis-Dashboard/blob/main/Excel-Dashboard.zip)` in Microsoft Excel.
 2. Explore PivotTables and charts for insights.
 3. Use Slicers & Filters to analyze data by road type, time, weather, or location.
 
