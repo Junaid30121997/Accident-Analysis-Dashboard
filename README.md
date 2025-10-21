@@ -18,7 +18,9 @@ The dashboard aims to analyze and understand accident patterns, helping stakehol
 
 ## Dashboard Preview
 ![Dashboard Overview](https://github.com/Junaid30121997/Accident-Analysis-Dashboard/blob/main/Screenshot%202025-10-21%20121343.png)
-![Interactive Chart Example](Screenshots/chart_example.png)
+
+
+![Interactive Chart Example](https://github.com/Junaid30121997/Accident-Analysis-Dashboard/blob/main/Screenshot%202025-10-21%20121441.png)
 
 ## How to Use
 1. Open `Dashboard.xlsx` in Microsoft Excel.
