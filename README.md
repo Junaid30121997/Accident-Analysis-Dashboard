@@ -17,7 +17,7 @@ The dashboard aims to analyze and understand accident patterns, helping stakehol
 - Visual storytelling through clean and intuitive design
 
 ## Dashboard Preview
-![Dashboard Overview](Screenshots/dashboard_overview.png)
+![Dashboard Overview](https://github.com/Junaid30121997/Accident-Analysis-Dashboard/blob/main/Screenshot%202025-10-21%20121343.png)
 ![Interactive Chart Example](Screenshots/chart_example.png)
 
 ## How to Use
